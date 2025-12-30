@@ -1,0 +1,13 @@
+{
+  "name": "@brayanlima/firstmodule",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Brayan Lima",
+  "license": "ISC",
+  "description": "Testando a publicação de módulos no NPM"
+}
